@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-      <img src="https://cdn.discordapp.com/attachments/1026240959303925850/1028769614810845204/unknown.png" alt="Custom Cursor Image">
+      <img src="https://cdn.discordapp.com/attachments/1028770360017047594/1028770369085116447/unknown.png" alt="Custom Cursor Image">
 </p>
 
 ---
