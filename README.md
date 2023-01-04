@@ -1,4 +1,4 @@
-<h1 align="center">Term Player</h1>
+<h1 align="center">Custom Cursor</h1>
 
 <p align='center'>
     <b>💙 Custom Cursor Template 💙</b>
@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-      <img src="https://cdn.discordapp.com/attachments/1028770360017047594/1028770369085116447/unknown.png" alt="Custom Cursor Image">
+      <img src="https://cdn.discordapp.com/attachments/1054834251805249622/1060300555295129640/Screenshot_2023-01-04_at_3.55.29_PM.png" alt="Custom Cursor Image">
 </p>
 
 ---
