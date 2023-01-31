@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-      <img src="https://cdn.discordapp.com/attachments/1054834251805249622/1060300555295129640/Screenshot_2023-01-04_at_3.55.29_PM.png" alt="Custom Cursor Image">
+      <img src="https://cdn.discordapp.com/attachments/1065385280393203892/1070117733041184848/Screenshot_2023-01-31_at_6.05.18_PM.png" alt="Custom Cursor Image">
 </p>
 
 ---
