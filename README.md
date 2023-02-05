@@ -25,9 +25,9 @@
 
 <p align="center">
     <b>Informations</b><br>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/edwardelton/terminal-portfolio?color=0077b6">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/edwardelton/terminal-portfolio?color=0077b6">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edwardelton/terminal-portfolio?color=0077b6">
-    <img alt="GitHub" src="https://img.shields.io/github/license/edwardelton/terminal-portfolio?color=0077b6">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/edwardelton/terminal-portfolio?color=0077b6">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/edwardelton/terminal-portfolio?color=1ea9fa">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/edwardelton/terminal-portfolio?color=1ea9fa">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/edwardelton/terminal-portfolio?color=1ea9fa">
+    <img alt="GitHub" src="https://img.shields.io/github/license/edwardelton/terminal-portfolio?color=1ea9fa">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/edwardelton/terminal-portfolio?color=1ea9fa">
 </p>
